@@ -1,5 +1,4 @@
 
-
 int main (string[] args)
 {
 	int a = int.parse ("12");
